@@ -1,4 +1,4 @@
-//code : Perpective_6, 2016 Philip Liu
+//Perpective_6, 2015 Philip Liu
 
 #include "ofApp.h"
 #include "recursionWrapperClass.h"
